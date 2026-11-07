@@ -12,5 +12,13 @@ locals {
       display_name = "Sam Lee"
       department   = "Finance"
     }
+    "jordan.kim" = {
+      display_name = "Jordan Kim"
+      department   = "Sales"
+    }
+    "jordan.yao" = {
+      display_name = "Jordan Yao"
+      department   = "Sales"
+    }
   }
 }
